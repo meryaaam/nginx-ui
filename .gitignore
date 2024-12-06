@@ -16,3 +16,5 @@ casdoor.pub
 .idea/deployment.xml
 .idea/webServers.xml
 casdoor.pem
+docker-compose.yml
+Dockerfile
